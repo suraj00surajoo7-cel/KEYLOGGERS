@@ -6,3 +6,5 @@ Capture Keystrokes: Records every keystroke made on the keyboard.
 Logs to File: Saves keystrokes into a log file for later analysis.
 Hidden Execution: Runs in the background without user interference.
 Modular Design: Built with functions that can be easily customized or extended.
+
+Credits:AI
