@@ -19,12 +19,4 @@ Python
 Tkinter
 Pynput
 
--------
-Project Structure:
-
----------
-keylogger-project/
-│── keylogers.py
-│── out/
-│── README.md
-│── requirements.txt
+------
