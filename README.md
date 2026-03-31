@@ -21,8 +21,10 @@ Pynput
 
 -------
 Project Structure:
-                 keylogger-project/
-                 │── keylogers.py
-                 │── out/
-                 │── README.md
-                 │── requirements.txt
+
+---------
+keylogger-project/
+│── keylogers.py
+│── out/
+│── README.md
+│── requirements.txt
